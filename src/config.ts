@@ -31,3 +31,5 @@ export const wallets = [
   '0x824a0AE13ebc337e0Fe8Aafb9E6DACfe4A54e4c0',
   '0xCBe748df4110B0Dd71Cf427c64387922738b6E7B',
 ];
+
+export const NO_PROXY = false;
